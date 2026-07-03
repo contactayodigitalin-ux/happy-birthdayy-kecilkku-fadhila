@@ -8,8 +8,7 @@
 // ==========================================
 const CONFIG = {
   // Teks ucapan yang akan di-type (typewriter effect)
-  loveLetterText: `selamat bertambah usia perempuan kuat, 
-perempuan cantik, perempuan baik, perempuan cerdas, perempuan manis, perempuan yang suka hal" Sederhana.
+  loveLetterText: `selamat bertambah usia perempuan kuat,perempuan cantik, perempuan baik, perempuan cerdas, perempuan manis, perempuan yang suka hal" Sederhana.
 perempuan yang selalu tersenyum ,perempuan yang mandiri,perempuan yang kalo aku ga kasih kabar, semoga keberkahan selalu menyertai di setiap langkahmu,dan tetaplah bahagia, 
 i love you more syg🤍
 
